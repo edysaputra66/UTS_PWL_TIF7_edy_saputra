@@ -33,6 +33,7 @@
                             <a class="dropdown-item" href="<?= base_url(); ?>">Alamat</a>
                         </div>
                     </li>
+                    <a class="nav-item nav-link" href="<?= base_url(); ?>v_mhs">View</a>
                     <a class="py-2 d-none d-md-inline" href="<?= base_url(); ?>">About</a>
                 </div>
             </div>
